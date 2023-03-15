@@ -1,0 +1,7 @@
+pandas==1.5.3
+fastapi[all]
+simpletransformers==0.63.9
+catboost==1.1.1
+torchvision==0.14.1
+python_multipart==0.0.6
+uvicorn[standard]
